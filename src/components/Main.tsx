@@ -1,7 +1,9 @@
+import Projects from './Projects';
+
 const Main = () => {
     return (
         <main>
-
+            <Projects />
         </main>
     )
 }
